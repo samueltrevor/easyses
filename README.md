@@ -8,7 +8,6 @@ EasySES is a Python tool designed to streamline AWS Simple Email Service (SES) o
 3. [Installation](#installation)
 4. [Configuration](#configuration)
 5. [Usage](#usage)
-6. [License](#license)
 
 ## Features
 - Set up new domains for SES.
