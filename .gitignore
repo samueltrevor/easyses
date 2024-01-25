@@ -1,0 +1,20 @@
+easyses/
+.env
+# Ignore IDE-specific files
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore log files
+*.log
+
+# Ignore other common files
+*.bak
+*.swp
+*.swo
+*~
+
